@@ -243,18 +243,24 @@ footer nav a {
   }
 
   .middle-content .boxes .box {
-    width: 30%;
-    margin: 0.7rem 0 0.7rem 0;
+    width: 35%;
+    margin: 12% auto;
+    
   }
 
   .bottom-content {
+    width: 75%;
     display: flex;
     flex-wrap: wrap;
+    margin: auto;
   }
 
   .bottom-content .text-container {
-    width: 100%;
+    width: 50%;
     margin-bottom: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    
 
   }
 
